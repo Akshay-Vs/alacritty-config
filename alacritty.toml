@@ -1,0 +1,16 @@
+import = [
+  "/usr/local/lib/node_modules/alacritty-themes/themes/Tokyonight_Night.toml"
+]
+
+shell="zsh"
+
+[window]
+dimensions = { columns = 130, lines = 30 }
+
+opacity = 0.55
+blur = true
+
+padding.x = 3
+padding.y = 0
+
+dynamic_title = true
